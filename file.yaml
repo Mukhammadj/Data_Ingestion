@@ -1,0 +1,8 @@
+file_type: csv
+dataset_name: data2017_2020
+file_name: NIH Chest X-ray dataset
+table_name: CXR8
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
